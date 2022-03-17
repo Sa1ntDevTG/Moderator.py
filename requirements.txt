@@ -1,0 +1,5 @@
+sqlalchemy
+requests
+aiogram
+psutil
+captcha
