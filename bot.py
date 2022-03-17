@@ -26,7 +26,7 @@ censor_en = Censor.get(lang='en')
 
 db_session.global_init('database.db')
 
-bot_token = '1827629160:AAGUSA1jhTVFh8w8a1ELlHgLvfn4bVfhNTM'
+bot_token = '5273745606:AAEnZm62yljnvygDgG-4P6EkK4x5vd4EQoI'
 
 bot = Bot(token=bot_token)
 dp = Dispatcher(bot, storage=MemoryStorage())
